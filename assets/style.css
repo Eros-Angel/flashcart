@@ -1,9 +1,10 @@
 body {
-    background-color: blueviolet;
+    background-color:brown;
 }
 
 footer {
     background-color: azure;
+    color: blue;
     position: fixed;
     bottom: 0;
 }
