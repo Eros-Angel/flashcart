@@ -1,0 +1,9 @@
+body {
+    background-color: blueviolet;
+}
+
+footer {
+    background-color: azure;
+    position: fixed;
+    bottom: 0;
+}
