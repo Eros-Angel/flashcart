@@ -16,7 +16,6 @@ body {
 
 .cartão{
 margin: 1rem 1rem;
-background-color: white;
 height: 20rem;
 flex-basis: calc(33% - 6rem);
 }
