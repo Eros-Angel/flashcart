@@ -11,11 +11,14 @@ body {
 margin: 1rem 1rem;
 background-color: white;
 height: 20rem;
-flex-basis: calc(33%);
+flex-basis: calc(33% - 6rem);
 }
 
 
-
+.cartão__conteudo{
+    text-align: center;
+    
+}
 
 
 
