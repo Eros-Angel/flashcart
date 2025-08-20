@@ -39,6 +39,21 @@ flex-basis: calc(33% - 6rem);
 }
 
 
+.cartão__conteudo p {
+    margin-top: 1rem;
+    padding: 2rem;
+}
+
+.cartão__conteudo__pergunta {
+    color: var(--text-color);
+}
+
+.cartão__conteudo__respota{
+    color: var(--card-back-color);
+}
+
+
+
 
 
 footer {
